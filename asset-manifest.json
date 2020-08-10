@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/static/js/main.837a5979.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.837a5979.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.ca42dc3b.chunk.js": "/portfolio/static/js/2.ca42dc3b.chunk.js",
-    "static/js/2.ca42dc3b.chunk.js.map": "/portfolio/static/js/2.ca42dc3b.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.fcd655c227a23ef85164c5e9a21e287e.js": "/portfolio/precache-manifest.fcd655c227a23ef85164c5e9a21e287e.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ca42dc3b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ca42dc3b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "main.css": "/www.jusingatesportfolio.com/static/css/main.5f361e03.chunk.css",
+    "main.js": "/www.jusingatesportfolio.com/static/js/main.de2d5675.chunk.js",
+    "main.js.map": "/www.jusingatesportfolio.com/static/js/main.de2d5675.chunk.js.map",
+    "runtime-main.js": "/www.jusingatesportfolio.com/static/js/runtime-main.8c210d5f.js",
+    "runtime-main.js.map": "/www.jusingatesportfolio.com/static/js/runtime-main.8c210d5f.js.map",
+    "static/js/2.ca42dc3b.chunk.js": "/www.jusingatesportfolio.com/static/js/2.ca42dc3b.chunk.js",
+    "static/js/2.ca42dc3b.chunk.js.map": "/www.jusingatesportfolio.com/static/js/2.ca42dc3b.chunk.js.map",
+    "index.html": "/www.jusingatesportfolio.com/index.html",
+    "precache-manifest.ce3c53860c323105a73c420dc98769ed.js": "/www.jusingatesportfolio.com/precache-manifest.ce3c53860c323105a73c420dc98769ed.js",
+    "service-worker.js": "/www.jusingatesportfolio.com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/www.jusingatesportfolio.com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ca42dc3b.chunk.js.LICENSE.txt": "/www.jusingatesportfolio.com/static/js/2.ca42dc3b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/www.jusingatesportfolio.com/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.209c2d7e.js",
+    "static/js/runtime-main.8c210d5f.js",
     "static/js/2.ca42dc3b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.837a5979.chunk.js"
+    "static/js/main.de2d5675.chunk.js"
   ]
 }
