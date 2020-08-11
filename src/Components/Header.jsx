@@ -7,6 +7,7 @@ import html from "../Assets/html5logo.png";
 import css from "../Assets/css3logo.png";
 import csharp from "../Assets/csharplogo.png";
 import bootstrap from "../Assets/bootstraplogo.png";
+import javascript from "../Assets/javascriptlogo.png";
 const Header = () => {
   return (
     <div className="container-fluid text-light">
@@ -17,7 +18,7 @@ const Header = () => {
           </h1>
         </div>
 
-        <div className="col-12 col-sm-6 p-1 py-2 px-sm-3 bg-light  p-lg-5 d-flex align-items-center">
+        <div className="col-12 col-lg-6 p-1 py-2 px-sm-3 bg-light  p-lg-5 d-flex align-items-center">
           <div className="text-left p-2 p-sm-3 shadow rounded text-shadow bg-dark">
             <h4 className="d-inline p-2 text-shadow-3 px-3  text-light">
               Profile
@@ -43,20 +44,26 @@ const Header = () => {
             </div>
           </div>
         </div>
-        <div className="col-12 col-sm-6 p-1 py-2 px-sm-3 bg-light  p-lg-5 d-flex justify-content-center">
-          <div className="d-flex ">
-            <img className="w-custom-logo" src={html} alt="" />
-            <img className="w-custom-logo" src={css} alt="" />
-            <img className="w-custom-logo" src={csharp} alt="" />
-            <img className="w-custom-logo" src={node} alt="" />
-            <img className="w-custom-logo" src={mongo} alt="" />
+        <div className="col-12 col-lg-6 p-1 py-2 px-sm-3 bg-light  p-lg-5justify-content-center">
+          <div>
+            <h4>
+              <a href="https://www.canva.com/design/DAEAUdBbbfc/XkFSpDoUP_LS1sOvgkDDuw/view?utm_content=DAEAUdBbbfc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+                Resume
+              </a>
+            </h4>
           </div>
-
-          <h4>
-            <a href="https://www.canva.com/design/DAEAUdBbbfc/XkFSpDoUP_LS1sOvgkDDuw/view?utm_content=DAEAUdBbbfc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
-              Resume
-            </a>
-          </h4>
+          <div className="d-flex flex-column">
+            <div className="py-2">
+              <img className="w-custom-logo px-2" src={html} alt="" />
+              <img className="w-custom-logo " src={css} alt="" />
+              <img className="w-custom-logo-1" src={javascript} alt="" />
+            </div>
+            <div className="py-2">
+              <img className="w-custom-logo" src={node} alt="" />
+              <img className="w-custom-logo" src={mongo} alt="" />
+              <img className="w-custom-logo" src={csharp} alt="" />
+            </div>
+          </div>
         </div>
         <div className="col-12 col-sm-6 m-auto">
           <div className="p-2 bg-light text-primary contact-bar">
