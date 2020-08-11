@@ -1,6 +1,11 @@
 h1 {
   font-family: "Quicksand", sans-serif;
 }
+.w-custom-logo {
+  max-width: 180px;
+  max-height: 180px;
+}
+
 .picContainer {
   border-radius: 500%;
   height: 200px;

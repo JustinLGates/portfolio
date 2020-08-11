@@ -1,5 +1,12 @@
 import React, { Component } from "react";
 import me from "../Assets/me.jpg";
+
+import node from "../Assets/node.png";
+import mongo from "../Assets/mongodblogo.png";
+import html from "../Assets/html5logo.png";
+import css from "../Assets/css3logo.png";
+import csharp from "../Assets/csharplogo.png";
+import bootstrap from "../Assets/bootstraplogo.png";
 const Header = () => {
   return (
     <div className="container-fluid text-light">
@@ -8,13 +15,6 @@ const Header = () => {
           <h1 className="text-shadow-3 text-dark p-2">
             Justin Gates Software Developer
           </h1>
-        </div>
-        <div className="col d-flex align-items-center justify-content-center">
-          <div className="d-flex justify-content-center align-items-center">
-            <div className="pic-container shadow ">
-              <img className="profile-pic " src={me} />
-            </div>
-          </div>
         </div>
 
         <div className="col-12 col-sm-6 p-1 py-2 px-sm-3 bg-light  p-lg-5 d-flex align-items-center">
@@ -34,7 +34,29 @@ const Header = () => {
               day in your life. ”
             </p>
             <p className=" p-2"> ― Mark Twain</p>
+            <div className="col d-flex align-items-center justify-content-center p-3">
+              <div className="d-flex justify-content-center align-items-center">
+                <div className="pic-container shadow ">
+                  <img className="profile-pic " src={me} />
+                </div>
+              </div>
+            </div>
           </div>
+        </div>
+        <div className="col-12 col-sm-6 p-1 py-2 px-sm-3 bg-light  p-lg-5 d-flex justify-content-center">
+          <div className="d-flex ">
+            <img className="w-custom-logo" src={html} alt="" />
+            <img className="w-custom-logo" src={css} alt="" />
+            <img className="w-custom-logo" src={csharp} alt="" />
+            <img className="w-custom-logo" src={node} alt="" />
+            <img className="w-custom-logo" src={mongo} alt="" />
+          </div>
+
+          <h4>
+            <a href="https://www.canva.com/design/DAEAUdBbbfc/XkFSpDoUP_LS1sOvgkDDuw/view?utm_content=DAEAUdBbbfc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+              Resume
+            </a>
+          </h4>
         </div>
         <div className="col-12 col-sm-6 m-auto">
           <div className="p-2 bg-light text-primary contact-bar">
