@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import trackABugImg from "../Assets/track-a-bug.png";
+import trackABugImg from "../Assets/bugtracker.png";
 import homeScholarImg from "../Assets/homescholarlogo.png";
 import kabanaImg from "../Assets/kanbanpic.png";
 import taskmasterImg from "../Assets/taskmasterimg.png";
-import mrsmithImg from "../Assets/mrsmithimg.png";
+import mrsmithImg from "../Assets/mrsmith.png";
 import inspireImg from "../Assets/inspireimg.png";
 const Projects = () => {
   return (

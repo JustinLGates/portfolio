@@ -2,12 +2,12 @@ h1 {
   font-family: "Quicksand", sans-serif;
 }
 .w-custom-logo {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 140px;
+  max-height: 140px;
 }
 .w-custom-logo-1 {
-  max-width: 160px;
-  max-height: 160px;
+  max-width: 150px;
+  max-height: 150px;
 }
 
 .picContainer {
@@ -28,7 +28,7 @@ h1 {
   position: fixed;
   z-index: 390;
   left: -10px;
-  top: 20vh;
+  top: 40vh;
 }
 .contact-bar:hover .pg {
   transition: 0.3s;
