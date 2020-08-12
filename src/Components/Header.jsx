@@ -23,7 +23,7 @@ const Header = () => {
           </h1>
         </div>
 
-        <div className="col-12 col-lg-6 p-1 py-2  bg-light  p-lg-5 d-flex align-items-center">
+        <div className="col-12 col-lg-6 p-1 py-2  bg-light px-2 px-lg-5 d-flex">
           <div className="text-left p-2 p-sm-3 shadow rounded text-shadow bg-dark">
             <h4 className="d-inline p-2 text-shadow-3 px-3  text-light">
               Love for to problem solving, clean code, and learning.
@@ -31,48 +31,58 @@ const Header = () => {
             <p className=" p-2">
               My passion for software development started in 2017. Building
               games as a hobby. After several months i discoverd i could use my
-              new skill to make things for work to impove efficientcy. A small
+              new skill to make things for work to impove efficiency. A small
               android app and a bunch of side projects later, I enrolled in a
-              fullstackbootcamp. To fill in some skills nessessary to build full
-              stack web applications. Can't imagine doing anything other than
-              software development for a living.
+              fullstack web app bootcamp. To gain skills necessary to build full
+              stack web applications. I can not imagine doing anything other
+              than software development for a living.
             </p>
-            <p className=" p-2">
-              “ Find a job you enjoy doing, and you will never have to work a
-              day in your life. ”
-            </p>
-            <p className=" p-2"> ― Mark Twain</p>
-            <div className="col d-flex align-items-center justify-content-center p-3">
+            <div className="col-12 d-flex align-items-center justify-content-center p-3">
               <div className="d-flex justify-content-center align-items-center">
                 <div className="pic-container shadow ">
                   <img className="profile-pic " src={me} />
                 </div>
               </div>
             </div>
+            <p className=" p-2">
+              “ Find a job you enjoy doing, and you will never have to work a
+              day in your life. ”
+            </p>
+            <p className=" p-2 px-5"> ― Mark Twain</p>
           </div>
         </div>
-        <div className="col-12 col-lg-6 p-1 py-2  bg-light   justify-content-center">
-          <div className="d-flex flex-column">
-            <div className="py-2">
+        <div className="col-12 col-lg-6 p-1 py-2  bg-light justify-content-center">
+          <div className="row">
+            <div className="col-4 p-0">
               <img className="w-custom-logo px-2" src={html} alt="" />
+              <br />
               <img className="w-custom-logo " src={css} alt="" />
+              <br />
               <img className="w-custom-logo-1" src={bootstrap} alt="" />
+              <br />
               <img className="w-custom-logo-1" src={javascript} alt="" />
             </div>
-            <div className="py-2">
+
+            <div className="col-4 p-0">
               <img className="w-custom-logo" src={react} alt="" />
+              <br />
               <img className="w-custom-logo" src={redux} alt="" />
+              <br />
               <img className="w-custom-logo" src={vue} alt="" />
+              <br />
               <img className="w-custom-logo" src={node} alt="" />
             </div>
-            <div className="py-2">
+            <div className="col-4 p-0">
               <img className="w-custom-logo" src={java} alt="" />
+              <br />
               <img className="w-custom-logo" src={mongo} alt="" />
+              <br />
               <img className="w-custom-logo" src={csharp} alt="" />
+              <br />
               <img className="w-custom-logo" src={sql} alt="" />
             </div>
           </div>
-          <div className="pt-5">
+          <div className="pt-5 mt-lg-5">
             <h4>
               <a href="https://www.canva.com/design/DAEAUdBbbfc/XkFSpDoUP_LS1sOvgkDDuw/view?utm_content=DAEAUdBbbfc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
                 Resume

@@ -1,13 +1,23 @@
-h1 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Quicksand", sans-serif;
+}
+body {
   font-family: "Quicksand", sans-serif;
 }
 .w-custom-logo {
-  max-width: 140px;
-  max-height: 140px;
+  padding: 15px;
+  width: 100%;
+  max-width: 130px;
 }
 .w-custom-logo-1 {
-  max-width: 150px;
-  max-height: 150px;
+  padding: 15px;
+  width: 100%;
+  max-width: 130px;
 }
 
 .picContainer {
