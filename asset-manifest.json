@@ -1,36 +1,39 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cf450bd3.chunk.css",
-    "main.js": "/portfolio/static/js/main.0aadc8ee.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0aadc8ee.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8ca4c878.chunk.css",
+    "main.js": "/portfolio/static/js/main.dd2d80a9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.dd2d80a9.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.3a2ed7d6.chunk.js": "/portfolio/static/js/2.3a2ed7d6.chunk.js",
-    "static/js/2.3a2ed7d6.chunk.js.map": "/portfolio/static/js/2.3a2ed7d6.chunk.js.map",
+    "static/js/2.db808993.chunk.js": "/portfolio/static/js/2.db808993.chunk.js",
+    "static/js/2.db808993.chunk.js.map": "/portfolio/static/js/2.db808993.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.5562ac8d34d6ed68781326fda702b23a.js": "/portfolio/precache-manifest.5562ac8d34d6ed68781326fda702b23a.js",
+    "precache-manifest.c5f0974fd6f196a47bb8b2b0516fb920.js": "/portfolio/precache-manifest.c5f0974fd6f196a47bb8b2b0516fb920.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.cf450bd3.chunk.css.map": "/portfolio/static/css/main.cf450bd3.chunk.css.map",
-    "static/js/2.3a2ed7d6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3a2ed7d6.chunk.js.LICENSE.txt",
+    "static/css/main.8ca4c878.chunk.css.map": "/portfolio/static/css/main.8ca4c878.chunk.css.map",
+    "static/js/2.db808993.chunk.js.LICENSE.txt": "/portfolio/static/js/2.db808993.chunk.js.LICENSE.txt",
     "static/media/bootstraplogo.png": "/portfolio/static/media/bootstraplogo.73844123.png",
+    "static/media/bugtracker.png": "/portfolio/static/media/bugtracker.0a4c7ca3.png",
     "static/media/csharplogo.png": "/portfolio/static/media/csharplogo.51fd3720.png",
     "static/media/css3logo.png": "/portfolio/static/media/css3logo.3c28c740.png",
     "static/media/homescholarlogo.png": "/portfolio/static/media/homescholarlogo.63975de7.png",
     "static/media/html5logo.png": "/portfolio/static/media/html5logo.666c190e.png",
     "static/media/inspireimg.png": "/portfolio/static/media/inspireimg.3124c999.png",
+    "static/media/javalogo.png": "/portfolio/static/media/javalogo.21042fc8.png",
     "static/media/javascriptlogo.png": "/portfolio/static/media/javascriptlogo.138df0ae.png",
     "static/media/kanbanpic.png": "/portfolio/static/media/kanbanpic.be78f002.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg",
     "static/media/me.jpg": "/portfolio/static/media/me.46a58922.jpg",
-    "static/media/mrsmithimg.png": "/portfolio/static/media/mrsmithimg.54b3433b.png",
+    "static/media/mrsmith.png": "/portfolio/static/media/mrsmith.4a3db475.png",
     "static/media/node.png": "/portfolio/static/media/node.3dcd8b65.png",
-    "static/media/taskmasterimg.png": "/portfolio/static/media/taskmasterimg.6a71d502.png",
-    "static/media/track-a-bug.png": "/portfolio/static/media/track-a-bug.764bbcbb.png"
+    "static/media/reduxlogo.png": "/portfolio/static/media/reduxlogo.3b921918.png",
+    "static/media/sqllogo.png": "/portfolio/static/media/sqllogo.2aecc08c.png",
+    "static/media/taskmasterimg.png": "/portfolio/static/media/taskmasterimg.6a71d502.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.3a2ed7d6.chunk.js",
-    "static/css/main.cf450bd3.chunk.css",
-    "static/js/main.0aadc8ee.chunk.js"
+    "static/js/2.db808993.chunk.js",
+    "static/css/main.8ca4c878.chunk.css",
+    "static/js/main.dd2d80a9.chunk.js"
   ]
 }
