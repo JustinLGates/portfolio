@@ -26,14 +26,16 @@ const Header = () => {
         <div className="col-12 col-lg-6 p-1 py-2  bg-light  p-lg-5 d-flex align-items-center">
           <div className="text-left p-2 p-sm-3 shadow rounded text-shadow bg-dark">
             <h4 className="d-inline p-2 text-shadow-3 px-3  text-light">
-              Profile
+              Love for to problem solving, clean code, and learning.
             </h4>
             <p className=" p-2">
-              Addicted to solving problems and writing clean code. A few years
-              ago i set out to build my first game.A few small games i switched
-              to building software to make processes at work more efficient . A
-              small android app and a bunch of full stack web applications later
-              i can't imagine doing anything else with my life.
+              My passion for software development started in 2017. Building
+              games as a hobby. After several months i discoverd i could use my
+              new skill to make things for work to impove efficientcy. A small
+              android app and a bunch of side projects later, I enrolled in a
+              fullstackbootcamp. To fill in some skills nessessary to build full
+              stack web applications. Can't imagine doing anything other than
+              software development for a living.
             </p>
             <p className=" p-2">
               “ Find a job you enjoy doing, and you will never have to work a
@@ -83,17 +85,19 @@ const Header = () => {
             <h4 className="p-0 m-0">
               <a
                 target="_blank"
-                href="www.linkedin.com/in/justin-l-gates"
+                href="https://linkedin.com/in/justin-l-gates"
                 className="action"
-              ></a>
-              <i className="fab fa-linkedin-in py-1 action pg"></i>
+              >
+                <i className="fab fa-linkedin-in py-1 action pg"></i>
+              </a>
               <br />
               <a
                 target="_blank"
                 href="https://github.com/JustinLGates"
                 className="action"
-              ></a>
-              <i className="fab fa-github-square text-dark py-1 action pg"></i>
+              >
+                <i className="fab fa-github-square text-dark py-1 action pg"></i>
+              </a>
             </h4>
           </div>
         </div>

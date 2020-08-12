@@ -122,7 +122,6 @@ const Projects = () => {
                 <ul>
                   <li>NodeJs</li>
                   <li>MongoDb</li>
-                  <li></li>
                 </ul>
               </div>
             </div>
@@ -205,7 +204,6 @@ const Projects = () => {
                 <ul>
                   <li>NodeJs</li>
                   <li>MongoDb</li>
-                  <li></li>
                 </ul>
               </div>
             </div>
