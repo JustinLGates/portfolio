@@ -29,13 +29,11 @@ const Header = () => {
               Love for to problem solving, clean code, and learning.
             </h4>
             <p className=" p-2">
-              My passion for software development started in 2017. Building
-              games as a hobby. After several months i discoverd i could use my
-              new skill to make things for work to impove efficiency. A small
-              android app and a bunch of side projects later, I enrolled in a
-              fullstack web app bootcamp. To gain skills necessary to build full
-              stack web applications. I can not imagine doing anything other
-              than software development for a living.
+              My passion for software development started in 2017 building games
+              as a hobby. After building my first few games, and a bunch of side
+              projects. I enrolled in a bootcamp to solidify my knowledge
+              building full stack web applications. I can not imagine doing
+              anything other than software development for a living.
             </p>
             <div className="col-12 d-flex align-items-center justify-content-center p-3">
               <div className="d-flex justify-content-center align-items-center">
