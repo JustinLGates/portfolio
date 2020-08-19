@@ -36,7 +36,7 @@ body {
   border-top: solid rgba(0, 0, 0, 0.7) 1px;
   border-bottom: solid rgba(0, 0, 0, 0.7) 1px;
   position: fixed;
-  z-index: 390;
+  z-index: 2;
   left: -10px;
   top: 40vh;
 }
