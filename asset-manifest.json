@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.216fcfa0.chunk.css",
-    "main.js": "/portfolio/static/js/main.358513e1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.358513e1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.5a69269d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5a69269d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.db808993.chunk.js": "/portfolio/static/js/2.db808993.chunk.js",
-    "static/js/2.db808993.chunk.js.map": "/portfolio/static/js/2.db808993.chunk.js.map",
+    "static/js/2.c6c536df.chunk.js": "/portfolio/static/js/2.c6c536df.chunk.js",
+    "static/js/2.c6c536df.chunk.js.map": "/portfolio/static/js/2.c6c536df.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.43b6bfe6472af29a5632dddd4827b313.js": "/portfolio/precache-manifest.43b6bfe6472af29a5632dddd4827b313.js",
+    "precache-manifest.5cc5cd4d9bf63a726b205729f3a5eaba.js": "/portfolio/precache-manifest.5cc5cd4d9bf63a726b205729f3a5eaba.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.216fcfa0.chunk.css.map": "/portfolio/static/css/main.216fcfa0.chunk.css.map",
-    "static/js/2.db808993.chunk.js.LICENSE.txt": "/portfolio/static/js/2.db808993.chunk.js.LICENSE.txt",
+    "static/js/2.c6c536df.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c6c536df.chunk.js.LICENSE.txt",
     "static/media/bootstraplogo.png": "/portfolio/static/media/bootstraplogo.73844123.png",
     "static/media/bugtracker.png": "/portfolio/static/media/bugtracker.0a4c7ca3.png",
     "static/media/csharplogo.png": "/portfolio/static/media/csharplogo.51fd3720.png",
     "static/media/css3logo.png": "/portfolio/static/media/css3logo.3c28c740.png",
+    "static/media/dotNetApiTemplateImg.png": "/portfolio/static/media/dotNetApiTemplateImg.d222e30c.png",
     "static/media/homescholarlogo.png": "/portfolio/static/media/homescholarlogo.63975de7.png",
     "static/media/html5logo.png": "/portfolio/static/media/html5logo.666c190e.png",
     "static/media/inspireimg.png": "/portfolio/static/media/inspireimg.3124c999.png",
@@ -26,14 +27,16 @@
     "static/media/me.jpg": "/portfolio/static/media/me.46a58922.jpg",
     "static/media/mrsmith.png": "/portfolio/static/media/mrsmith.4a3db475.png",
     "static/media/node.png": "/portfolio/static/media/node.3dcd8b65.png",
+    "static/media/reactAuthImg.png": "/portfolio/static/media/reactAuthImg.2372b0d1.png",
     "static/media/reduxlogo.png": "/portfolio/static/media/reduxlogo.3b921918.png",
+    "static/media/rewardAppImg.png": "/portfolio/static/media/rewardAppImg.4a8bbd7c.png",
     "static/media/sqllogo.png": "/portfolio/static/media/sqllogo.2aecc08c.png",
     "static/media/taskmasterimg.png": "/portfolio/static/media/taskmasterimg.6a71d502.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.db808993.chunk.js",
+    "static/js/2.c6c536df.chunk.js",
     "static/css/main.216fcfa0.chunk.css",
-    "static/js/main.358513e1.chunk.js"
+    "static/js/main.5a69269d.chunk.js"
   ]
 }

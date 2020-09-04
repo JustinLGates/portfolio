@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19621c4efdb7bb18b88f01a54989153a",
+    "revision": "50d07f0b11b16dc2f7fde26544530792",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "a874c15d057d2b79863b",
+    "revision": "28be8bcb214da11ecbea",
     "url": "/portfolio/static/css/main.216fcfa0.chunk.css"
   },
   {
-    "revision": "8e984f01845064526430",
-    "url": "/portfolio/static/js/2.db808993.chunk.js"
+    "revision": "e228264a828d6c37f4d3",
+    "url": "/portfolio/static/js/2.c6c536df.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.db808993.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.c6c536df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a874c15d057d2b79863b",
-    "url": "/portfolio/static/js/main.358513e1.chunk.js"
+    "revision": "28be8bcb214da11ecbea",
+    "url": "/portfolio/static/js/main.5a69269d.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c28c740a3210a6197d712e1cf492788",
     "url": "/portfolio/static/media/css3logo.3c28c740.png"
+  },
+  {
+    "revision": "d222e30cdf1482861ac4f8e2ebb85fbe",
+    "url": "/portfolio/static/media/dotNetApiTemplateImg.d222e30c.png"
   },
   {
     "revision": "63975de7a3709907678fc15ce395a9e2",
@@ -80,8 +84,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/node.3dcd8b65.png"
   },
   {
+    "revision": "2372b0d153d0d51fc86303c675ce533f",
+    "url": "/portfolio/static/media/reactAuthImg.2372b0d1.png"
+  },
+  {
     "revision": "3b9219187b284972236d8abab1657da3",
     "url": "/portfolio/static/media/reduxlogo.3b921918.png"
+  },
+  {
+    "revision": "4a8bbd7ce7e0c993f49566fd0fa2c55d",
+    "url": "/portfolio/static/media/rewardAppImg.4a8bbd7c.png"
   },
   {
     "revision": "2aecc08cd2bf3df9e5d0af5e5b42936d",
